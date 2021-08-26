@@ -10,4 +10,4 @@ As of 25th of August 2021, i have experience in:
 - Java
 and some other stuff.
 
-You can contact me thru Discord (Michu#0910)
+You can contact me through Discord (Michu#0910)
