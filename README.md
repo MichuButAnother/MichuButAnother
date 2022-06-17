@@ -7,6 +7,7 @@ As of 17th of April 2022, i have experience in:
 - Some JavaScript
 - Lua (and GLua)
 - PHP
+- MySQL and SQLite databases
 - making gameservers and stuff like that
 
 You can contact me through Discord (Michu#0910)
