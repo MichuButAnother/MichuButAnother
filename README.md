@@ -4,7 +4,7 @@ As of 30th of October 2022, i have experience in:
 - C++ 
 - C#
 - HTML, CSS
-- Some JavaScript
+- Some JavaScript (i absolutely hate it)
 - Lua (and GLua)
 - PHP
 - MySQL and SQLite databases
