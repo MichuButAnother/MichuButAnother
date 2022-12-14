@@ -7,17 +7,17 @@
 - HTML, CSS
 - Lua
 
+##### Programming languages I'm learning or I know something about:
+- C, C#
+- Julia
+- PHP
+- JavaScript
+
 ##### Other things I know a lot about:
 - MySQL and SQLite databases
 - Garry's Mod coding and stuff like that
 - setting up and maintaining Linux machines
 
 <br>
-
-##### Programming languages I'm learning or I know something about:
-- C, C#
-- Julia
-- PHP
-- JavaScript
 
 You can contact me through Discord - Michu#0910
