@@ -1,14 +1,23 @@
-Welcome to my profile!
+## Welcome to my profile!
+#### I'm Michu, a Polish coder and whatnot who loves Linux.
+<br>
 
-As of 30th of October 2022, i have experience in:
-- C++ 
-- C#
+##### Programming languages I know a lot about:
+- C++
 - HTML, CSS
-- Some JavaScript (i absolutely hate it)
-- Lua (and GLua)
-- PHP
-- MySQL and SQLite databases
-- making gameservers and stuff like that
-- setting up Linux machines (no i don't use arch)
+- Lua
 
-You can contact me through Discord (Michu#0910)
+##### Other things I know a lot about:
+- MySQL and SQLite databases
+- Garry's Mod coding and stuff like that
+- setting up and maintaining Linux machines
+
+<br>
+
+##### Programming languages I'm learning or I know something about:
+- C, C#
+- Julia
+- PHP
+- JavaScript
+
+You can contact me through Discord - Michu#0910
