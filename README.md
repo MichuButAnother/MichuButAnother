@@ -21,4 +21,4 @@
 
 <br>
 
-You can contact me through Discord - Michu#0910
+You can contact me through Discord - michubutanother
