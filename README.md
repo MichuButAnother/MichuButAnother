@@ -13,5 +13,5 @@
 - Databases
 - Typical IT stuff
 <br>
-You can contact me through Discord - michubutanother
+You can contact me through Discord - michubutanother <br>
 or my email - michu@majster-sandbox.pl
