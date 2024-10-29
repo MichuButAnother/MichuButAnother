@@ -1,6 +1,7 @@
 ## Welcome to my profile!
 ### I'm Michu, a Polish guy and whatnot who loves Fedora Linux.
 <br>
+
 #### Programming languages I know:
 - Lua
 - PHP
